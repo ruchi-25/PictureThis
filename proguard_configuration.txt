@@ -1,0 +1,769 @@
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\classes\release'
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\CreativeSDKImage\4.0.0\libs\aviary-sdk-4.0.0.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\CreativeSDKImage\4.0.0\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.horizontallistview\hlistview\1.3.1\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.viewrevealanimator\view-reveal-animator\1.0.2\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.3\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-urlconnection\1.6.0\375c2206eb7e52976955d0f8737be5e0ec9cf667\okhttp-urlconnection-1.6.0.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.targettooltip\target-tooltip-library\1.2.4\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.ab\ab-test\2.0.5\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\de.greenrobot\eventbus\2.2.1\a18ff12a9ab5ae52fd30d42f134517997568231e\eventbus-2.2.1.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.disklrumulticache\disklrumulticache\1.0.5\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.4\b1b6ea3b7e4aa4f492509a4952029cd8e48019ad\commons-io-2.4.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\com.nhaarman.listviewanimations\lib-core\3.1.0\f3f9629b068554d8513a2aaf34418171bf430851\lib-core-3.1.0.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.picasso\picasso\2.3.5.3\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.imagezoom\imagezoom\2.1.1\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.3.2\90a3822c38ec8c996e84c16a3477ef632cbc87a3\commons-lang3-3.3.2.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\android\development\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.exif\android-exif-extended\1.0.6\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk.foundation\CreativeSDKFoundationAuth\0.3.94\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar'(!META-INF/MANIFEST.MF)
+-injars 'C:\Users\sudeshna\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.6.0\e32c6b4bee8b61f0de12b337c48df0f5df8caccc\okhttp-1.6.0.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.adobe.creativesdk\CreativeSDKImage\4.0.0\libs\localytics.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar'(!META-INF/MANIFEST.MF)
+-injars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\exploded-aar\it.sephiroth.android.library.hlistviewanimations\hlistviewanimations-library\1.0.1\classes.jar'(!META-INF/MANIFEST.MF)
+-outjars 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\build\intermediates\classes-proguard\release\classes.jar'
+
+-libraryjars 'D:\work\android\development\adt-bundle-windows-x86_64-20140702\sdk\platforms\android-21\android.jar'
+
+-forceprocessing
+-printusage 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\proguard_unused.txt'
+-dontoptimize
+-optimizations !code/simplification/arithmetic
+-optimizationpasses 5
+-dontobfuscate
+-printmapping 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\proguard_mapping.txt'
+-dontusemixedcaseclassnames
+-keepattributes *Annotation*,Signature
+-dontpreverify
+-verbose
+-dontwarn android.support.**,com.squareup.okhttp.internal.**
+-printconfiguration 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\proguard_configuration.txt'
+-dump 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\proguard_dump.txt'
+-printseeds 'D:\work\Feb_2015\CreativeSDKRoot\sampleapps\CreativeSDKImageSampleApp\proguard_keep.txt'
+
+
+-keep public class com.google.vending.licensing.ILicensingService
+
+-keep public class com.android.vending.licensing.ILicensingService
+
+# For native methods, see http://proguard.sourceforge.net/manual/examples.html#native
+-keepclasseswithmembers,allowshrinking class * {
+    native <methods>;
+}
+
+# keep setters in Views so that animations can still work.
+# see http://proguard.sourceforge.net/manual/examples.html#beans
+-keepclassmembers public class * extends android.view.View {
+    void set*(***);
+    *** get*();
+}
+
+# We want to keep methods in Activity that could be used in the XML attribute onClick
+-keepclassmembers class * extends android.app.Activity {
+    public void *(android.view.View);
+}
+
+# For enumeration classes, see http://proguard.sourceforge.net/manual/examples.html#enumerations
+-keepclassmembers enum  * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keep class * extends android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+# common library
+-keep class com.aviary.android.feather.sdk.AviaryIntent
+
+-keep class com.aviary.android.feather.sdk.internal.tracking.AviaryTracker
+
+-keep class com.aviary.android.feather.sdk.internal.tracking.AbstractTracker
+
+-keep class com.aviary.android.feather.sdk.log.LoggerFactory
+
+-keep class com.aviary.android.feather.sdk.internal.headless.gl.GLUtils
+
+-keep class com.aviary.android.feather.sdk.internal.services.BaseContextService
+
+-keep class com.aviary.android.feather.sdk.internal.tracking.TrackerFactory
+
+# headless library
+-keep interface  com.aviary.android.feather.sdk.internal.headless.filters.IFilter
+
+-keep class com.aviary.android.feather.sdk.internal.headless.AviaryEffect
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.Moa
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.MoaHD
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.MoaParameter
+
+-keep class com.aviary.android.feather.sdk.internal.headless.utils.CameraUtils
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.MoaJavaUndo
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.MoaJavaUndo$MoaUndoBitmap
+
+-keep class com.aviary.android.feather.sdk.BuildConfig
+
+-keep class com.aviary.android.feather.cds.BuildConfig
+
+-keep class com.aviary.android.feather.headless.BuildConfig
+
+-keep class com.aviary.android.feather.common.BuildConfig
+
+-keep class * extends com.aviary.android.feather.sdk.internal.headless.filters.IFilter
+
+-keep class * extends com.aviary.android.feather.sdk.internal.headless.moa.MoaParameter
+
+-keep class * extends com.aviary.android.feather.sdk.widget.AviaryStoreWrapperAbstract
+
+-keep class * extends com.aviary.android.feather.sdk.widget.PackDetailLayout
+
+-keep class * extends com.aviary.android.feather.sdk.internal.services.BaseContextService
+
+-keep class * extends com.aviary.android.feather.sdk.internal.tracking.AbstractTracker
+
+-keep class * extends android.app.Service
+
+-keep class * extends android.os.AsyncTask
+
+-keep class * extends android.app.Activity
+
+-keep class * extends android.app.Application
+
+-keep class * extends android.app.Service
+
+-keep class * extends android.content.BroadcastReceiver
+
+-keep class * extends android.content.ContentProvider
+
+-keep class com.android.vending.licensing.ILicensingService
+
+-keep public class com.android.vending.billing.IInAppBillingService
+
+-keep class com.aviary.android.feather.sdk.internal.headless.moa.MoaResult
+
+-keep class com.aviary.android.feather.sdk.internal.headless.filters.NativeFilterProxy
+
+-keep class com.aviary.android.feather.sdk.utils.AviaryIntentConfigurationValidator
+
+-keep class com.aviary.android.feather.sdk.internal.Constants
+
+-keep class com.aviary.android.feather.sdk.AviaryIntent
+
+-keep class com.aviary.android.feather.sdk.AviaryIntent$Builder
+
+-keep class com.aviary.android.feather.sdk.AviaryVersion
+
+-keepclassmembers class com.aviary.android.feather.sdk.overlays.UndoRedoOverlay {
+    void setAlpha1(int);
+    void setAlpha2(int);
+    void setAlpha3(int);
+    int getAlpha1();
+    int getAlpha2();
+    int getAlpha3();
+}
+
+-keepclassmembers class * extends com.aviary.android.feather.sdk.internal.graphics.drawable.FeatherDrawable {
+    float getScaleX();
+    void setScaleX(float);
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.AviaryIntent {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.AviaryIntent$Builder {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.AviaryVersion {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.utils.AviaryIntentConfigurationValidator {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.graphics.drawable.FeatherDrawable {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.utils.SDKUtils {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.utils.SDKUtils$ApiKeyReader {
+    <fields>;
+    <methods>;
+}
+
+# keep everything for native methods/fields
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.moa.Moa {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.moa.MoaHD {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.moa.MoaJavaUndo {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.utils.CameraUtils {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.moa.MoaResult {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.opengl.AviaryGLSurfaceView {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.filters.MoaJavaToolStrokeResult {
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.gl.GLUtils {
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.filters.NativeToolFilter {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.AviaryIntent {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.os.AviaryIntentService {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.os.AviaryAsyncTask {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.tracking.AbstractTracker {
+    <fields>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.tracking.AviaryTracker {
+    <fields>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.log.LoggerFactory {
+    <fields>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.moa.MoaJavaUndo$MoaUndoBitmap {
+    <fields>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.BuildConfig {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.cds.BuildConfig {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.headless.BuildConfig {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.common.BuildConfig {
+    <fields>;
+    <methods>;
+}
+
+# keep class members
+-keepclassmembers class com.aviary.android.feather.sdk.internal.tracking.AbstractTracker {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.tracking.TrackerFactory {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.headless.gl.GLUtils {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.sdk.internal.services.BaseContextService {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class com.aviary.android.feather.utils.SettingsUtils {
+    <fields>;
+    <methods>;
+}
+
+-keepclassmembers class * extends com.aviary.android.feather.sdk.internal.services.BaseContextService {
+    public <init>(com.aviary.android.feather.sdk.internal.services.IAviaryController);
+}
+
+-keepclasseswithmembers class * {
+    public <init>(com.aviary.android.feather.sdk.internal.services.IAviaryController);
+}
+
+-keepclassmembers class * extends android.os.Parcelable {
+    static ** CREATOR;
+}
+
+# Keep all the native methods
+-keepclassmembers class * {
+    private native <methods>;
+    public native <methods>;
+    protected native <methods>;
+    public static native <methods>;
+    private static native <methods>;
+    static native <methods>;
+    native <methods>;
+}
+
+-keepclasseswithmembers class * {
+    public <init>(com.aviary.android.feather.sdk.internal.services.IAviaryController);
+}
+
+# EventBus
+-keepclassmembers class ** {
+    public void onEvent*(**);
+}
+
+# 
+# facebook sdk specific entries
+-keep,allowshrinking class * extends java.io.Serializable
+
+-keepclassmembers class * extends java.io.Serializable {
+    static final long serialVersionUID;
+    private static final java.io.ObjectStreamField[] serialPersistentFields;
+    !static !transient <fields>;
+    private void writeObject(java.io.ObjectOutputStream);
+    private void readObject(java.io.ObjectInputStream);
+    java.lang.Object writeReplace();
+    java.lang.Object readResolve();
+}
+
+-keepclassmembers class com.facebook.Session {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.facebook.model.** {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.google.android.gms.R$styleable
+
+-keepclassmembers class com.google.android.gms.R$styleable {
+    <fields>;
+    <methods>;
+}
+
+# view res/layout/abc_action_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ActionMenuItemView {
+    <init>(...);
+}
+
+# view res/layout/abc_expanded_menu_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ExpandedMenuView {
+    <init>(...);
+}
+
+# view res/layout/abc_list_menu_item_layout.xml #generated:17
+# view res/layout/abc_popup_menu_item_layout.xml #generated:17
+-keep class android.support.v7.internal.view.menu.ListMenuItemView {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_toolbar.xml #generated:27
+-keep class android.support.v7.internal.widget.ActionBarContainer {
+    <init>(...);
+}
+
+# view res/layout/abc_action_mode_bar.xml #generated:19
+# view res/layout/abc_screen_toolbar.xml #generated:43
+-keep class android.support.v7.internal.widget.ActionBarContextView {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_toolbar.xml #generated:17
+-keep class android.support.v7.internal.widget.ActionBarOverlayLayout {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.ContentFrameLayout {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:23
+-keep class android.support.v7.internal.widget.FitWindowsFrameLayout {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_simple.xml #generated:17
+-keep class android.support.v7.internal.widget.FitWindowsLinearLayout {
+    <init>(...);
+}
+
+# view v11\res/layout-v11/abc_screen_content_include.xml #generated:19
+-keep class android.support.v7.internal.widget.NativeActionModeAwareLayout {
+    <init>(...);
+}
+
+# view res/layout/abc_action_mode_close_item_material.xml #generated:17
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:27
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:37
+# view res/layout/abc_search_dropdown_item_icons_2line.xml #generated:48
+# view res/layout/abc_search_view.xml #generated:116
+# view res/layout/abc_search_view.xml #generated:128
+# view res/layout/abc_search_view.xml #generated:38
+# view res/layout/abc_search_view.xml #generated:60
+# view res/layout/abc_search_view.xml #generated:97
+-keep class android.support.v7.internal.widget.TintImageView {
+    <init>(...);
+}
+
+# view res/layout/abc_screen_simple.xml #generated:25
+# view res/layout/abc_screen_simple_overlay_action_mode.xml #generated:32
+-keep class android.support.v7.internal.widget.ViewStubCompat {
+    <init>(...);
+}
+
+# view res/layout/abc_action_menu_layout.xml #generated:17
+-keep class android.support.v7.widget.ActionMenuView {
+    <init>(...);
+}
+
+# view res/layout/abc_activity_chooser_view.xml #generated:19
+-keep class android.support.v7.widget.LinearLayoutCompat {
+    <init>(...);
+}
+
+# view res/layout/abc_search_view.xml #generated:78
+-keep class android.support.v7.widget.SearchView$SearchAutoComplete {
+    <init>(...);
+}
+
+# view land\res/layout-land/actionbar.xml #generated:2
+# view port\res/layout-port/actionbar.xml #generated:2
+# view res/layout/abc_screen_toolbar.xml #generated:36
+-keep class android.support.v7.widget.Toolbar {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:139
+-keep class com.adobe.creativesdk.foundation.internal.auth.AdobeAuthSignInActivity {
+    <init>(...);
+}
+
+# view land\res/layout-land/actionbar.xml #generated:12
+# view port\res/layout-port/actionbar.xml #generated:12
+# view res/layout/adobe_common_errorview.xml #generated:14
+# view res/layout/adobe_common_popup_bannerview.xml #generated:9
+-keep class com.adobe.creativesdk.foundation.internal.utils.CreativeSDKTextView {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:63
+-keep class com.aviary.android.feather.sdk.FeatherActivity {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:113
+-keep class com.aviary.android.feather.sdk.internal.cds.AviaryCdsAssetsDownloaderService {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:51
+-keep class com.aviary.android.feather.sdk.internal.cds.AviaryCdsProvider {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:125
+-keep class com.aviary.android.feather.sdk.internal.cds.AviaryCdsReceiver {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:104
+-keep class com.aviary.android.feather.sdk.internal.cds.AviaryCdsService {
+    <init>(...);
+}
+
+# view res/layout/aviary_main_view.xml #generated:2
+-keep class com.aviary.android.feather.sdk.internal.services.drag.DragLayer {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_effects_gl.xml #generated:7
+-keep class com.aviary.android.feather.sdk.opengl.AviaryGLSurfaceView {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_adjust.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.AdjustImageView {
+    <init>(...);
+}
+
+# view res/layout/aviary_tool_layout.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.AviaryBadgeToolLayout {
+    <init>(...);
+}
+
+# view res/layout/aviary_bottombar.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.AviaryBottomBarViewFlipper {
+    <init>(...);
+}
+
+# view res/layout/aviary_feedback_dialog_view.xml #generated:35
+# view res/layout/aviary_feedback_dialog_view.xml #generated:47
+# view res/layout/aviary_iap_dialog_list.xml #generated:60
+# view res/layout/aviary_navbar.xml #generated:45
+# view res/layout/aviary_navbar.xml #generated:93
+# view res/layout/aviary_overlay_close_button.xml #generated:3
+# view res/layout/aviary_pack_detail_layout_content.xml #generated:58
+# view res/layout/aviary_panel_meme.xml #generated:16
+# view res/layout/aviary_panel_meme.xml #generated:40
+-keep class com.aviary.android.feather.sdk.widget.AviaryButton {
+    <init>(...);
+}
+
+# view res/layout/aviary_panel_crop.xml #generated:6
+# view res/layout/aviary_panel_draw.xml #generated:13
+# view res/layout/aviary_panel_draw.xml #generated:28
+# view res/layout/aviary_panel_spot.xml #generated:6
+-keep class com.aviary.android.feather.sdk.widget.AviaryGallery {
+    <init>(...);
+}
+
+# view res/layout/aviary_panel_crop.xml #generated:16
+# view res/layout/aviary_panel_draw.xml #generated:37
+# view res/layout/aviary_panel_draw.xml #generated:41
+# view res/layout/aviary_panel_spot.xml #generated:16
+-keep class com.aviary.android.feather.sdk.widget.AviaryGalleryTopIndicatorView {
+    <init>(...);
+}
+
+# view res/layout/aviary_gallery_crop_item_view.xml #generated:16
+# view res/layout/aviary_gallery_item_highlight_view.xml #generated:9
+# view res/layout/aviary_lens_button.xml #generated:2
+# view res/layout/aviary_panel_adjust.xml #generated:24
+# view res/layout/aviary_panel_adjust.xml #generated:34
+# view res/layout/aviary_panel_adjust.xml #generated:69
+# view res/layout/aviary_panel_adjust.xml #generated:79
+# view res/layout/aviary_panel_colorsplash.xml #generated:20
+# view res/layout/aviary_panel_colorsplash.xml #generated:46
+# view res/layout/aviary_panel_colorsplash.xml #generated:77
+# view res/layout/aviary_panel_enhance.xml #generated:17
+# view res/layout/aviary_panel_enhance.xml #generated:42
+# view res/layout/aviary_panel_enhance.xml #generated:67
+# view res/layout/aviary_panel_focus.xml #generated:17
+# view res/layout/aviary_panel_focus.xml #generated:27
+# view res/layout/aviary_panel_meme.xml #generated:24
+# view res/layout/aviary_panel_meme.xml #generated:48
+# view res/layout/aviary_tool_feedback_layout.xml #generated:18
+# view res/layout/aviary_tool_layout.xml #generated:21
+-keep class com.aviary.android.feather.sdk.widget.AviaryHighlightImageButton {
+    <init>(...);
+}
+
+# view res/layout/aviary_main_view.xml #generated:39
+-keep class com.aviary.android.feather.sdk.widget.AviaryImageViewUndoRedo {
+    <init>(...);
+}
+
+# view res/layout/aviary_navbar.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.AviaryNavBarViewFlipper {
+    <init>(...);
+}
+
+# view res/layout/aviary_panel_seekbar.xml #generated:10
+-keep class com.aviary.android.feather.sdk.widget.AviarySeekBar {
+    <init>(...);
+}
+
+# view res/layout/aviary_adjust_intro_tooltip.xml #generated:2
+# view res/layout/aviary_default_tooltip.xml #generated:8
+# view res/layout/aviary_detail_banner.xml #generated:44
+# view res/layout/aviary_effect_intensity_tooltip.xml #generated:8
+# view res/layout/aviary_effect_item_external.xml #generated:18
+# view res/layout/aviary_effect_item_more.xml #generated:19
+# view res/layout/aviary_feedback_dialog_view.xml #generated:17
+# view res/layout/aviary_feedback_dialog_view.xml #generated:26
+# view res/layout/aviary_frame_item.xml #generated:31
+# view res/layout/aviary_gallery_crop_item_view.xml #generated:9
+# view res/layout/aviary_gallery_crop_item_view_custom.xml #generated:8
+# view res/layout/aviary_iap_dialog_list.xml #generated:50
+# view res/layout/aviary_iap_download_error_message.xml #generated:19
+# view res/layout/aviary_iap_download_error_message.xml #generated:27
+# view res/layout/aviary_iap_list_item.xml #generated:26
+# view res/layout/aviary_iap_list_item.xml #generated:35
+# view res/layout/aviary_navbar.xml #generated:16
+# view res/layout/aviary_navbar_text.xml #generated:2
+# view res/layout/aviary_pack_detail_layout_content.xml #generated:24
+# view res/layout/aviary_pack_detail_layout_content.xml #generated:39
+# view res/layout/aviary_pack_detail_layout_content.xml #generated:77
+# view res/layout/aviary_panel_adjust.xml #generated:45
+# view res/layout/aviary_panel_adjust.xml #generated:90
+# view res/layout/aviary_panel_adjustment_consolidation.xml #generated:13
+# view res/layout/aviary_panel_adjustment_consolidation.xml #generated:25
+# view res/layout/aviary_panel_adjustment_consolidation.xml #generated:37
+# view res/layout/aviary_panel_adjustment_consolidation.xml #generated:49
+# view res/layout/aviary_panel_colorsplash.xml #generated:30
+# view res/layout/aviary_panel_colorsplash.xml #generated:55
+# view res/layout/aviary_panel_colorsplash.xml #generated:86
+# view res/layout/aviary_panel_enhance.xml #generated:27
+# view res/layout/aviary_panel_enhance.xml #generated:52
+# view res/layout/aviary_panel_enhance.xml #generated:77
+# view res/layout/aviary_panel_focus.xml #generated:37
+# view res/layout/aviary_progress_medium.xml #generated:18
+# view res/layout/aviary_progress_medium_inverse.xml #generated:18
+# view res/layout/aviary_progress_small.xml #generated:18
+# view res/layout/aviary_sticker_item.xml #generated:18
+# view res/layout/aviary_store_buy_button.xml #generated:8
+# view res/layout/aviary_tool_feedback_layout.xml #generated:28
+# view res/layout/aviary_tool_layout.xml #generated:41
+-keep class com.aviary.android.feather.sdk.widget.AviaryTextView {
+    <init>(...);
+}
+
+# view res/layout/aviary_panel_wheel.xml #generated:10
+-keep class com.aviary.android.feather.sdk.widget.AviaryWheel {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_crop.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.CropImageView {
+    <init>(...);
+}
+
+# view res/layout/aviary_frame_item.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.EffectThumbLayout {
+    <init>(...);
+}
+
+# view res/layout/aviary_store_buy_button.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.IAPBuyButton {
+    <init>(...);
+}
+
+# view res/layout/aviary_iap_dialog_detail.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.IAPDialogDetail {
+    <init>(...);
+}
+
+# view res/layout/aviary_iap_dialog_list.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.IAPDialogList {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_meme.xml #generated:36
+# view res/layout/aviary_content_stickers.xml #generated:2
+# view res/layout/aviary_content_text.xml #generated:15
+-keep class com.aviary.android.feather.sdk.widget.ImageViewDrawableOverlay {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_overlays.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.ImageViewOverlay {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_spot_draw.xml #generated:8
+-keep class com.aviary.android.feather.sdk.widget.ImageViewSpotDraw {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_blemish.xml #generated:8
+-keep class com.aviary.android.feather.sdk.widget.ImageViewSpotSingleTap {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_focus.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.ImageViewTiltiShiftTouch {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_draw.xml #generated:7
+-keep class com.aviary.android.feather.sdk.widget.ImageViewTouchAndDraw {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_vignette.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.ImageViewVignette {
+    <init>(...);
+}
+
+# view res/layout/aviary_content_frames.xml #generated:2
+-keep class com.aviary.android.feather.sdk.widget.ImageViewWithIntensity {
+    <init>(...);
+}
+
+# view res/layout/aviary_panel_adjustment_consolidation.xml #generated:62
+-keep class com.aviary.android.feather.sdk.widget.NonSwipeableViewPager {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:35
+-keep class picturethis.MainActivity {
+    <init>(...);
+}
+
+# view AndroidManifest.xml #generated:28
+-keep class picturethis.MyApplication {
+    <init>(...);
+}
+
+# view res/layout/aviary_iap_dialog_container.xml #generated:40
+-keep class it.sephiroth.android.library.viewrevealanimator.ViewRevealAnimator {
+    <init>(...);
+}
+
+# view res/layout/aviary_bottombar.xml #generated:12
+# view res/layout/aviary_pack_detail_layout_previews.xml #generated:13
+# view res/layout/aviary_panel_frames.xml #generated:9
+# view res/layout/aviary_panel_stickers.xml #generated:23
+# view res/layout/aviary_panel_stickers.xml #generated:34
+-keep class it.sephiroth.android.library.widget.HListView {
+    <init>(...);
+}
