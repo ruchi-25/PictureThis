@@ -18,3 +18,4 @@
 - Share Video Option
 
 Adobe’s Creative SDK was used for this college project where you’ll find a set of rich Android components and API’s that provides a growing set of features and workflows for user to edit images selected.
+<please incorporate your personal registered key file used for using Adobe Creative SDK>
