@@ -1,0 +1,102 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.aviary.android.picturethis">
+
+	<!-- billing permission -->
+	<!-- mandatory for PCN partners -->
+	<!-- <uses-permission android:name="com.android.vending.BILLING" /> -->
+
+	<!-- optional permissions -->
+	<!-- <uses-permission android:name="android.permission.VIBRATE" /> -->
+
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+	<uses-permission android:name="android.permission.INTERNET" />
+
+	<application
+		android:allowBackup="true"
+		android:label="@string/app_name"
+		android:icon="@mipmap/ic_launch_picthis"
+		android:hardwareAccelerated="true"
+		android:theme="@style/AppTheme"
+		android:name="com.aviary.android.picturethis.MyApplication">
+
+		<activity
+			android:name="com.aviary.android.picturethis.MainImageEditActivity"
+
+			android:screenOrientation="unspecified">
+
+			<!--<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>-->
+
+		</activity>
+
+        <activity
+            android:name="com.aviary.android.picturethis.VideoPlaying"
+
+            android:screenOrientation="portrait">
+
+            <!--<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>-->
+
+        </activity>
+
+		<activity
+			android:name=".Instructions"
+			android:theme="@style/Theme.Transparent"
+			android:screenOrientation="portrait">
+
+			<!--<intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>-->
+
+		</activity>
+
+
+        <activity
+                android:name="com.aviary.android.picturethis.MainActivity"
+                android:label="@string/app_name" >
+                <intent-filter>
+                    <action android:name="android.intent.action.MAIN" />
+
+                    <category android:name="android.intent.category.LAUNCHER" />
+                </intent-filter>
+            </activity>
+            <activity android:name="com.aviary.android.picturethis.CustomGalleryActivity" >
+                <intent-filter>
+                    <action android:name="luminous.ACTION_PICK" />
+                    <action android:name="luminous.ACTION_MULTIPLE_PICK" />
+
+                    <category android:name="android.intent.category.DEFAULT" />
+                </intent-filter>
+
+            </activity>
+
+		<!--
+			Required by the CreativeSDKImage
+			The "android:authorities" property MUST follow the following rule:
+				{your_app_package_name}.AviaryCdsProvider
+		-->
+		<provider
+			android:name="com.aviary.android.feather.sdk.internal.cds.AviaryCdsProvider"
+			android:authorities="com.aviary.android.picturethis.AviaryCdsProvider"
+			android:process=":aviarycds"
+			android:exported="false" />
+
+        <!-- <provider android:authorities="com.facebook.app.FacebookContentProvider1234"
+                    android:name="com.facebook.FacebookContentProvider"
+                    android:exported="true" />
+
+
+                <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+        -->
+
+	</application>
+
+
+
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="photo_width">100dp</dimen>
+    <dimen name="photo_height">100dp</dimen>
+    <integer name="photo_limit">12</integer>
+
+
+
+</resources>
